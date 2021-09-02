@@ -6,7 +6,7 @@ class JenkinsExample {
   System.out.println("Hello Shan");
   System.out.println("Hello ads");
   System.out.println("Hello Shan");
-    System.out.println("Hello Shan");
+  
   
  }
 
